@@ -1,5 +1,5 @@
 {
-  "name": "react-native-splash-screen-gamgee",
+  "name": "react-native-splash-screen",
   "version": "1.0.0",
   "description": "A splash screen for react-native, hide when application loaded ,it works on iOS and Android.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/https://github.com/GamgeeNL/react-native-splash-screen-gamgee.git/react-native-splash-screen-gamgee.git"
+    "url": "git+https://github.com/https://github.com/GamgeeNL/react-native-splash-screen.git/react-native-splash-screen-gamgee.git"
   },
   "keywords": [
     "react-native",
@@ -25,10 +25,10 @@
   "author": "crazycodeboy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GamgeeNL/react-native-splash-screen-gamgee/issues"
+    "url": "https://github.com/GamgeeNL/react-native-splash-screen/issues"
   },
   "peerDependencies": {
     "react-native": ">=0.56.0"
   },
-  "homepage": "https://github.com/GamgeeNL/react-native-splash-screen-gamgee#readme"
+  "homepage": "https://github.com/GamgeeNL/react-native-splash-screen#readme"
 }

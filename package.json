@@ -30,5 +30,6 @@
   "peerDependencies": {
     "react-native": ">=0.56.0"
   },
-  "homepage": "https://github.com/GamgeeNL/react-native-splash-screen#readme"
+  "homepage": "https://github.com/GamgeeNL/react-native-splash-screen#readme",
+  "nativePackage": true
 }
